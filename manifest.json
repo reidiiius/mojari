@@ -1,8 +1,7 @@
-
  {
   "name": "Mojari",
   "version": "0.1",
-  "manifest_version": 1,
+  "manifest_version": "0.1",
   "description": "Shoes app",
   "author": "Reid Netterville III",
   "default locale": "en",
