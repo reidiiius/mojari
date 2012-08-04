@@ -444,7 +444,7 @@ flow :margin => 4 do
 
 flow :margin => 4 do 
  image "glyph/mercury-mercury.png", :top => 0, :left => 60 
- image "glyph/sagittarius.png", :top => 0, :left => 80 
+ image "glyph/leo.png", :top => 0, :left => 80 
  para "+2-5 Ganamurti", :align =>'center', :size => 20, :stroke => olive 
  end 
 
