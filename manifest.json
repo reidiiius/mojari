@@ -1,9 +1,14 @@
-
  {
   "name": "Mojari",
+<<<<<<< HEAD
   "version": "0.2",
   "manifest_version": 2,
   "description": "Functions for the Melakarta",
+=======
+  "version": "0.1",
+  "manifest_version": "0.1",
+  "description": "Shoes app",
+>>>>>>> 6371a655633266c4911eaf7b180301aec65a2b3b
   "author": "Reid Netterville III",
   "default locale": "en",
   "homepage url": "https://github.com/reidiiius/mojari", 
