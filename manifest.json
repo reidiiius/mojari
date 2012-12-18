@@ -1,9 +1,17 @@
 
+<<<<<<< HEAD
  {
   "name": "Mojari",
   "version": "0.3",
   "manifest_version": 4,
   "description": "Shoes app",
+=======
+{
+  "name": "Mojari",
+  "version": "0.3",
+  "manifest_version": 4,
+  "description": "Shoes app",
+>>>>>>> 130878e5b037930fa19fa1d76308eaf9134f49c9
   "author": "Reid Netterville III",
   "default locale": "en",
   "homepage url": "https://github.com/reidiiius/mojari", 
