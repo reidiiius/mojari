@@ -98,7 +98,7 @@ flow :margin => 4 do
  end 
 
 flow :margin => 4 do 
- image "glyph/jupiter_sun.png", :top => 8, :left => 25 
+ image "glyph/jupiter-sun.png", :top => 8, :left => 25 
  image "glyph/pisces.png", :top => 0, :left => 64 
  para "-5 Jhankaradhwani \n\n", :align =>'center', :size => 20, :stroke => olive 
  end 
